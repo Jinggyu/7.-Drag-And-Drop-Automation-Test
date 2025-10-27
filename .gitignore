@@ -1,0 +1,5 @@
+/node_modules
+
+# Optional additions for good practice:
+/npm-debug.log
+.DS_Store
